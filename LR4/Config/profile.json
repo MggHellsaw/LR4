@@ -1,0 +1,26 @@
+{
+  "0": {
+    "name": "Pavlo",
+    "age": 20
+  },
+  "1": {
+    "name": "Alex",
+    "age": 22
+  },
+  "2": {
+    "name": "Viktor",
+    "age": 18
+  },
+  "3": {
+    "name": "Ivan",
+    "age": 32
+  },
+  "4": {
+    "name": "Max",
+    "age": 24
+  },
+  "5": {
+    "name": "Valerii",
+    "age": 28
+  }
+}
